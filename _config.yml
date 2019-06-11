@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Segyo
+description:    "Segyo's babble"
+url:            "https://myungsekyo.github.io/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Segyo Myung
+  url:          https://myungsekyo.github.io/
+  email:        myungsekyo@gmail.com
 
 # Build settings
 markdown:       kramdown
